@@ -66,7 +66,7 @@
     "react-test-renderer": "^16.14.0",
     "regenerator-runtime": "^0.13.11",
     "rollup-plugin-node-polyfills": "^0.2.1",
-    "vite": "^4.5.3",
+    "vite": "^4.5.5",
     "vitest": "^0.32.0"
   },
   "eslintConfig": {
